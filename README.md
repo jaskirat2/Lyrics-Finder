@@ -10,8 +10,18 @@
 ![1](https://user-images.githubusercontent.com/44981613/89106776-45af3480-d44a-11ea-8ca1-a1d9baaed2af.jpg)
 
 
+
+
+
+
+
 ### 🔰The Interface is very simple and easy to use, here is the demo how it works:
 ![2](https://user-images.githubusercontent.com/44981613/89106811-75f6d300-d44a-11ea-9745-be44787d60ad.jpg)
+
+
+
+
+
 
 
 ### 🔰Another demo:
