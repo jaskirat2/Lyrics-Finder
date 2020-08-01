@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LyricFinder_19</string>
+    <string name="enter_singer_name">Enter Name of Artist....</string>
+    <string name="enter_song_title">Enter Title of Song....</string>
+    <string name="Get_Lyrics">Get Lyrics</string>
+</resources>
