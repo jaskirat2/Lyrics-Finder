@@ -1,5 +1,5 @@
 # Lyrics-Finder
-## An Android application that provides lyrics of songs
+## An Android application that provides lyrics of songs and implemented using lyrics.ovi API
 
 
 ### 🔰Implemented using lyrics.ovi API
