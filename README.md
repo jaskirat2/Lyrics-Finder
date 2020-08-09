@@ -3,7 +3,7 @@
 
 
 ### 🔰Implemented using lyrics.ovi API
-### 🔰Lyrics-Finder Android application gives you the lyrics of the song, all you need to do is:
+### 🔰Lyrics-Finder Android application gives you lyrics of the song, all you need to do is:
 ### -> Enter the name of Artist
 ### -> Enter the title of Song
 
